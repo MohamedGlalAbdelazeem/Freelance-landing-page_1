@@ -1,8 +1,9 @@
- 3D Product Animation Service Landing Page
-Overview
+# 3D Product Animation Service Landing Page
+
+# Overview
 This README file provides an overview of the 3D Product Animation Service landing page project. The landing page is designed to promote and provide information about a 3D product animation service, aimed at businesses and individuals seeking high-quality, visually engaging product animations.
 
-Project Structure
+# Project Structure
 The project consists of the following main files and directories:
 
 index.html: The main HTML file containing the structure of the landing page.
@@ -17,7 +18,7 @@ Modern Aesthetic: The design incorporates modern web design principles, using cl
 Content Sections
 Hero Section:
 
-Background Video: A captivating background video showcasing 3D product animations.
+# Background Video: A captivating background video showcasing 3D product animations.
 Headline and Subheadline: Clear and compelling text to capture visitors' attention.
 Call to Action (CTA): A prominent button encouraging visitors to learn more or contact for services.
 Services Section:
